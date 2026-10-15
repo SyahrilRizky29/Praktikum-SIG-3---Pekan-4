@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DKI-Jakarta-Kep-Seribu.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-1200-76-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-76-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Kota Jakarta Pusat</name>
+      <description><![CDATA[Layer: DKI Jakarta Kep Seribu<br>Provinsi: DKI Jakarta<br>Jenis: Kota<br>Alamat: Jakarta Pusat, DKI Jakarta, Indonesia<br>Latitude: -6.1805<br>Longitude: 106.8284]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DKI Jakarta Kep Seribu</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DKI Jakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Jakarta Pusat, DKI Jakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.1805</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.8284</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.8284,-6.1805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Jakarta Utara</name>
+      <description><![CDATA[Layer: DKI Jakarta Kep Seribu<br>Provinsi: DKI Jakarta<br>Jenis: Kota<br>Alamat: Jakarta Utara, DKI Jakarta, Indonesia<br>Latitude: -6.1384<br>Longitude: 106.864]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DKI Jakarta Kep Seribu</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DKI Jakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Jakarta Utara, DKI Jakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.1384</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.864</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.864,-6.1384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Jakarta Barat</name>
+      <description><![CDATA[Layer: DKI Jakarta Kep Seribu<br>Provinsi: DKI Jakarta<br>Jenis: Kota<br>Alamat: Jakarta Barat, DKI Jakarta, Indonesia<br>Latitude: -6.1683<br>Longitude: 106.7588]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DKI Jakarta Kep Seribu</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DKI Jakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Jakarta Barat, DKI Jakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.1683</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.7588</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.7588,-6.1683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Jakarta Selatan</name>
+      <description><![CDATA[Layer: DKI Jakarta Kep Seribu<br>Provinsi: DKI Jakarta<br>Jenis: Kota<br>Alamat: Jakarta Selatan, DKI Jakarta, Indonesia<br>Latitude: -6.2533093<br>Longitude: 106.8106]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DKI Jakarta Kep Seribu</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DKI Jakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Jakarta Selatan, DKI Jakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.2533093</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.8106</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.8106,-6.2533093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Jakarta Timur</name>
+      <description><![CDATA[Layer: DKI Jakarta Kep Seribu<br>Provinsi: DKI Jakarta<br>Jenis: Kota<br>Alamat: Jakarta Timur, DKI Jakarta, Indonesia<br>Latitude: -6.225<br>Longitude: 106.9004]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DKI Jakarta Kep Seribu</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DKI Jakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Jakarta Timur, DKI Jakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.225</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.9004</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.9004,-6.225,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Kepulauan Seribu</name>
+      <description><![CDATA[Layer: DKI Jakarta Kep Seribu<br>Provinsi: DKI Jakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Kepulauan Seribu, DKI Jakarta, Indonesia<br>Latitude: -5.741634<br>Longitude: 106.6038664]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DKI Jakarta Kep Seribu</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DKI Jakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Kepulauan Seribu, DKI Jakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-5.741634</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.6038664</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.6038664,-5.741634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DKI JAKARTA</name>
+      <description><![CDATA[Layer: <br>Provinsi: <br>Jenis: <br>Alamat: <br>Latitude: <br>Longitude: ]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value/>
+        </Data>
+        <Data name="Provinsi">
+          <value/>
+        </Data>
+        <Data name="Jenis">
+          <value/>
+        </Data>
+        <Data name="Alamat">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value/>
+        </Data>
+        <Data name="Longitude">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              106.9431368,-6.1896524,0
+              106.9404855,-6.1845272,0
+              106.9388375,-6.1686895,0
+              106.9377389,-6.1512129,0
+              106.9382882,-6.1370127,0
+              106.9278512,-6.1217198,0
+              106.9174142,-6.1097036,0
+              106.9047799,-6.1075188,0
+              106.8932443,-6.1075188,0
+              106.8657785,-6.1124346,0
+              106.8486216,-6.097176,0
+              106.8376353,-6.033812,0
+              106.8244518,-5.9879231,0
+              106.8200571,-5.9026907,0
+              106.7651255,-5.8065153,0
+              106.6992075,-5.701578,0
+              106.6069224,-5.6425423,0
+              106.5497936,-5.7488699,0
+              106.6091197,-5.8122666,0
+              106.6926158,-5.8756561,0
+              106.7255748,-5.9259254,0
+              106.7475802,-6.0809645,0
+              106.7305514,-6.1181066,0
+              106.7305514,-6.1421383,0
+              106.7267061,-6.170538,0
+              106.7321993,-6.197844,0
+              106.740439,-6.2142269,0
+              106.7552706,-6.2333397,0
+              106.7673556,-6.2480833,0
+              106.7657076,-6.269925,0
+              106.7810885,-6.2890357,0
+              106.8019625,-6.2950418,0
+              106.8217379,-6.2944958,0
+              106.8387667,-6.2983178,0
+              106.8579928,-6.3065078,0
+              106.8816134,-6.3059618,0
+              106.905234,-6.3136057,0
+              106.9316012,-6.3097837,0
+              106.9552218,-6.2977718,0
+              106.9574191,-6.2726552,0
+              106.9546725,-6.2491754,0
+              106.9563205,-6.2295172,0
+              106.9563205,-6.2153191,0
+              106.946982,-6.2054894,0
+              106.9431368,-6.1896524,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

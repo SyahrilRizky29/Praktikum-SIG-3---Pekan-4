@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DI-Yogyakarta.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-1200-76-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-76-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Kabupaten Bantul</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Bantul, DI Yogyakarta, Indonesia<br>Latitude: -7.888<br>Longitude: 110.328]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Bantul, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.888</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.328</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.328,-7.888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Gunungkidul</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Gunungkidul, DI Yogyakarta, Indonesia<br>Latitude: -7.97<br>Longitude: 110.6]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Gunungkidul, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.97</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.6,-7.97,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Kulon Progo</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Kulon Progo, DI Yogyakarta, Indonesia<br>Latitude: -7.82<br>Longitude: 110.16]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Kulon Progo, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.82</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.16</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.16,-7.82,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Sleman</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Sleman, DI Yogyakarta, Indonesia<br>Latitude: -7.715<br>Longitude: 110.355]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Sleman, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.715</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.355</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.355,-7.715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Yogyakarta</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kota<br>Alamat: Kota Yogyakarta, DI Yogyakarta, Indonesia<br>Latitude: -7.7956<br>Longitude: 110.3695]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Yogyakarta, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.7956</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.3695</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.3695,-7.7956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DIY Yogyakarta</name>
+      <description><![CDATA[Layer: <br>Provinsi: <br>Jenis: <br>Alamat: <br>Latitude: <br>Longitude: ]]></description>
+      <styleUrl>#poly-000000-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value/>
+        </Data>
+        <Data name="Provinsi">
+          <value/>
+        </Data>
+        <Data name="Jenis">
+          <value/>
+        </Data>
+        <Data name="Alamat">
+          <value/>
+        </Data>
+        <Data name="Latitude">
+          <value/>
+        </Data>
+        <Data name="Longitude">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.1740952,-7.899291,0
+              110.1971665,-7.9079966,0
+              110.3004379,-7.9547859,0
+              110.3597641,-7.9645783,0
+              110.3938217,-8.0244159,0
+              110.4454575,-8.0407337,0
+              110.5564194,-8.094034,0
+              110.6882553,-8.1473272,0
+              110.7245103,-8.0962094,0
+              110.7596665,-8.045085,0
+              110.7475815,-7.9754585,0
+              110.6728745,-7.8927617,0
+              110.5926743,-7.8470538,0
+              110.5223618,-7.8056946,0
+              110.461937,-7.7577999,0
+              110.4355698,-7.6772375,0
+              110.4059067,-7.6293282,0
+              110.3235093,-7.6685271,0
+              110.3004379,-7.7142545,0
+              110.2718735,-7.719698,0
+              110.2092515,-7.7360278,0
+              110.1433335,-7.7621542,0
+              110.126854,-7.8209326,0
+              110.1740952,-7.899291,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
